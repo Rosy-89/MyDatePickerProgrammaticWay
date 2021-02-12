@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E1181E6925D6792D00DDE28B /* UITextField+InputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1181E6825D6792D00DDE28B /* UITextField+InputView.swift */; };
 		E1B07E4125D49455004A4F91 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B07E4025D49455004A4F91 /* AppDelegate.swift */; };
 		E1B07E4325D49455004A4F91 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B07E4225D49455004A4F91 /* SceneDelegate.swift */; };
 		E1B07E4525D49455004A4F91 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B07E4425D49455004A4F91 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E1181E6825D6792D00DDE28B /* UITextField+InputView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITextField+InputView.swift"; sourceTree = "<group>"; };
 		E1B07E3D25D49455004A4F91 /* MyDatePickerProgrammaticWay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyDatePickerProgrammaticWay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1B07E4025D49455004A4F91 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E1B07E4225D49455004A4F91 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				E1B07E4225D49455004A4F91 /* SceneDelegate.swift */,
 				E1B07E4425D49455004A4F91 /* ViewController.swift */,
 				E1B07E4625D49455004A4F91 /* Main.storyboard */,
+				E1181E6825D6792D00DDE28B /* UITextField+InputView.swift */,
 				E1B07E4C25D49458004A4F91 /* Assets.xcassets */,
 				E1B07E4E25D49458004A4F91 /* LaunchScreen.storyboard */,
 				E1B07E5125D49458004A4F91 /* Info.plist */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E1B07E4525D49455004A4F91 /* ViewController.swift in Sources */,
+				E1181E6925D6792D00DDE28B /* UITextField+InputView.swift in Sources */,
 				E1B07E4B25D49455004A4F91 /* MyDatePickerProgrammaticWay.xcdatamodeld in Sources */,
 				E1B07E4125D49455004A4F91 /* AppDelegate.swift in Sources */,
 				E1B07E4325D49455004A4F91 /* SceneDelegate.swift in Sources */,
